@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="phoneNumber">Phone number...</string>
+    <string name="messageText">Message...</string>
+    <string name="application">BudgetSMS</string>
+    <string name="activity">Send message</string>
+    <string name="sendButton">Send</string>
+    <string name="menuSettings">Settings</string>
+</resources>
